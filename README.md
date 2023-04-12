@@ -1,4 +1,5 @@
-# password-generator
+# Password Generator
+Password generator with filters for front-end mentoring project.
 
 ## Project setup
 ```
@@ -19,6 +20,5 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+--- 
+Made by [Hosana Barcelos](https://github.com/hosanabarcelos).
