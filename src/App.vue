@@ -42,4 +42,9 @@ img {
     width: 320px;
     padding-top: 114px;
 }
+@media screen and (min-width: 280px) and (max-width: 720px) {
+    img {
+        display: none;
+    }
+}
 </style>
