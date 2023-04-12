@@ -1,5 +1,5 @@
 # Password Generator
-Password generator with filters for front-end mentoring project.
+Password generator with filters for front-end mentoring.
 
 ## Project setup
 ```
