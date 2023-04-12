@@ -1,8 +1,10 @@
 <template>
-<div class="main__container">
-    <img src="@/assets/banner.png">
-    <GeneratePasswordForm />
-</div>
+    <div>
+        <div class="main__container">
+            <img src="@/assets/banner.png">
+            <GeneratePasswordForm />
+        </div>
+    </div>
 </template>
 
 <script>
@@ -16,7 +18,7 @@ export default {
 
 </script>
 
-<style scoped>
+<style>
 * {
     margin: 0;
     padding: 0;
@@ -32,9 +34,12 @@ export default {
     align-items: center;
     justify-content: center;
     background-color: #201E30;
-    gap: 80px;
+    gap: 100px;
+    margin: 0;
+    padding: 0;
 }
 img {
-    width: 380px;
+    width: 320px;
+    padding-top: 114px;
 }
 </style>
